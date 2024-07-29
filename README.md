@@ -1,0 +1,1 @@
+- good practice for introduction of tailwind and js
